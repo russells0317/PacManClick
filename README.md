@@ -1,6 +1,6 @@
 # PacManClick
 This is an exercise to create the famous "Pacman" character and get it to move across the screen.
-How to Run: In order to run this file, download all the files to a singular location. Open a browser window and drag the index.html file to the window and begin interacting with the code. (Hint: You will need to continuously click on the character in order to get him to move.)
+How to Run: In order to run this file, download all the files to a singular location. Open a browser window and drag the PacManMove.html file to the window and begin interacting with the code. (Hint: You will need to continuously click on the character in order to get him to move.)
 Roadmap: Some suggests to updating the code in the future would be to allow "Pacman" to move continuously on his own after an initial click. Other characters could also be added, such as the ghosts or the fruit to collect.
 LICENSE: MIT License
 
